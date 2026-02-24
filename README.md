@@ -23,7 +23,7 @@ git commit -m "first commit"
 [DATS web site ruu bicih](http://stda.edu.mn/)
 
 ## 😶‍🌫️ Zurag oruulah 
-![project Screenshot](images/CUTE.jpg)
+![project Photo](images/CUTE.jpg)
 
 ## 💻 Hvsnegt
 | ner | nas | Mergejil |
